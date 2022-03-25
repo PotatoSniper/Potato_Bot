@@ -3,10 +3,10 @@
 **Telegram: https://t.me/PotatoSniperBot**<br>
 **contact @poormanmentality for free trail**<br>
 
-**Contract Deployer.exe**<br>
+**ContractDeployer.exe**<br>
 ![image](https://user-images.githubusercontent.com/102332910/160053710-00143c1a-40ae-4afd-a987-7bb0c1ff1a85.png)<br>
 
-**Potato Bot.exe**<br>
+**PotatoBot.exe**<br>
 ![image](https://user-images.githubusercontent.com/102332910/160054132-b3eb1914-78a5-4e6b-a54e-f38805be28ec.png)
 
 
