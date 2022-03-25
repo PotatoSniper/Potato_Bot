@@ -38,7 +38,7 @@
   <br>
   <br>
 **Config.json File Setup:** <br>
-**⚠️ Do NotChange Parameter Name⚠️** 
+**⚠️ Do Not Change Parameter Name⚠️** 
 
   **apiID**:   Get your telegram api id at https://my.telegram.org/auth
   
