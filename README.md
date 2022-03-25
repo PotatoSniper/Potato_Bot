@@ -1,7 +1,8 @@
 # BSC-Mempool-Telegram-Sniper-Via-Solidity-Contract
 
 **Telegram: https://t.me/PotatoSniperBot**<br>
-**contact @poormanmentality for free trail**<br>
+**Discord:**https://discord.gg/nrghTp9H5p<br>
+**contact @poormanmentality on telegram or @Anonymous101#5251 on discord for free trail**<br>
 
 **ContractDeployer.exe**<br>
 ![image](https://user-images.githubusercontent.com/102332910/160053710-00143c1a-40ae-4afd-a987-7bb0c1ff1a85.png)<br>
