@@ -86,7 +86,7 @@
   
   **sell_slippage**: Sell slippage
 
-  **target_owner**: Leave It as is, bot will automatically fetch this. If bot failed to fetch owner address then you need to manually enter it here
+  **target_owner**: Leave It as is, bot will automatically fetch this. If bot failed to fetch owner address then you need to manually enter it here. Only For Mempool Mode.
   
   **⚠️ Do Not Change These Parameters⚠️**<br>
   **router**: "0x10ED43C718714eb63d5aA57B78B54704E256024E" <br>
