@@ -3,16 +3,16 @@
 Telegram: https://t.me/PotatoSniperBot
 contact @poormanmentality for free trail.
 
-**Mempool Mode (PCS/PINK-SALE/DX-SALE):**
-  ✔️ Anti Blacklist, Revert Transaction
-  ✔️ Anti High Tax > = 58%, Revert Transaction
-  ✔️ Buy From Dedicated Solidity Smart Contract
-  ✔️ PancakeSwap NON-BNB
-  ✔️ PancakeSwap BNB
-  ✔️ Pink-Sale
-  ✔️ Dx-Sale
-  ✔️ HoneyPot Checker
-  ✔️ Efficient Code
+**Mempool Mode (PCS/PINK-SALE/DX-SALE):**<br>	
+	✔️ Anti Blacklist, Revert Transaction<br>
+	✔️ Anti High Tax > = 58%, Revert Transaction<br>
+	✔️ Buy From Dedicated Solidity Smart Contract<br>
+  ✔️ PancakeSwap NON-BNB<br>
+  ✔️ PancakeSwap BNB<br>
+  ✔️ Pink-Sale<br>
+  ✔️ Dx-Sale<br>
+  ✔️ HoneyPot Checker<br>
+  ✔️ Efficient Code<br>
   
 ⚠️**Do not turn off bot if first purchase transaction fails, it might be due to trading is disabled. The bot will continue to scan mempool for owner&contract interactions.**⚠️
   
