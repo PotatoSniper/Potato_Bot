@@ -14,7 +14,7 @@ contact @poormanmentality for free trail.
   ✔️ HoneyPot Checker<br>
   ✔️ Efficient Code<br>
   
-**Do not turn off bot if first purchase transaction fails, it might be due to trading is disabled. The bot will continue to scan mempool for owner&contract interactions.**
+**⚠️Warning: Do not turn off bot if first purchase transaction fails, it might be due to trading is disabled. The bot will continue to scan mempool for owner&contract interactions.**
   
 Telegram Mode (LINK/ID):
   ✔️ Scrape Contract Address Only From Admin
