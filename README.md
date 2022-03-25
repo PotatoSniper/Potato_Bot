@@ -88,7 +88,7 @@
 
   **target_owner**: Leave It as is, bot will automatically fetch this. If bot failed to fetch owner address then you need to manually enter it here
   
-  **⚠️ Do NotChange These Parameters⚠️**<br>
+  **⚠️ Do Not Change These Parameters⚠️**<br>
   **router**: "0x10ED43C718714eb63d5aA57B78B54704E256024E" <br>
   **factory**: "0xcA143Ce32Fe78f1f7019d7d551a6402fC5350c73"<br>
   **bnb_busd_pair**: "0x58F876857a02D6762E0101bb5C46A8c1ED44Dc16"<br>
