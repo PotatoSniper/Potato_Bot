@@ -56,9 +56,11 @@
   
   **sell_account_key**:    Secret Key Of Wallet Address You Want To Use For Selling 
   
-  **url**: " BSC EndPoint Here HTTP/WSS (WS/WSS is better for mempool) ",
+  **url**: " BSC EndPoint Here HTTP/WSS (WS/WSS is better for mempool) "
+  
+  **reconnect**: **true/false**, only use it when your endpoint have timeout configured
 
-  **auto_sell**: Put **True**/**False** Here
+  **auto_sell**: Put **true**/**false** Here
   
   **auto_sell_interval**: Sell interval at every x pure profit. PureProfit = CurrentBalance - InvestmentAmount.
   
@@ -66,7 +68,7 @@
   
   **auto_sell_all_target**: Sell all balance at x pure profit.
 
-  **Telegram_Honeypot**: Enable honeypot checking **True**/**False**, only applies for telegram mode
+  **Telegram_Honeypot**: Enable honeypot checking **true**/**false**, only applies for telegram mode
   
   **target_buytax**: Buy Tax, Only Buy If Tax is <= x, only applies for telegram mode
   
@@ -76,7 +78,7 @@
   
   **test_buy_amount**: Amount Of BNB To Buy, Sample Buy
   
-  **buy_delay_timer**: Buy Delay, If not using leave it as null
+  **buy_delay_timer**: Buy Delay, If not using leave it as **null**
   
   **gas**: gas
   
