@@ -4,6 +4,7 @@
 **Discord:** **https://discord.gg/nrghTp9H5p**<br>
 **contact @poormanmentality on telegram or @Anonymous101#5251 on discord for free trail**<br>
 
+**ETH COMING SOON**
 **BSC DEX:** _**[PancakeSwap, ApeSwap, BabySwap, KnightSwap, MDEXSwap]**_<br>
 
 **ContractDeployer.exe**<br>
