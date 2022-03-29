@@ -1,7 +1,6 @@
 # Mempool & Telegram Sniper<br>
 **Demo : https://www.youtube.com/watch?v=3t74O6JmtNI**<br>
 **Telegram: https://t.me/PotatoSniperBot**<br>
-**Discord:** **https://discord.gg/nrghTp9H5p**<br>
 
 **COMING SOON: ETH**<br>
 
