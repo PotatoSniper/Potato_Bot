@@ -76,7 +76,7 @@
   
   **gaslimit**: maximum gaslimit
   
-  **intermediate_token**: Only applies to telegram mode, if target token is paired with non-bnb. For example safemoon-busd, you would enter busd address here.
+  **intermediate_token**: Only applies to telegram mode, if target token is paired with non-bnb. For example safemoon-busd, you would enter busd address here. **_Case sensitive_**
   
   **sell_slippage**: Sell slippage
 
