@@ -7,41 +7,30 @@
 **COMING SOON: ETH**<br>
 
 **BSC DEX:** _**[PancakeSwap, ApeSwap, BabySwap, KnightSwap, MDEXSwap]**_<br>
+**CRONOS DEX:** _**[MeerkatSwap]**_<br>
 
-**ContractDeployer.exe**<br>
-![image](https://user-images.githubusercontent.com/102332910/160053710-00143c1a-40ae-4afd-a987-7bb0c1ff1a85.png)<br>
-
-**PotatoBot.exe**<br>
-![image](https://user-images.githubusercontent.com/102332910/160316993-7e568d63-b50d-4a61-a557-7201ccb4b743.png)
-
-
-**Mempool Mode (_PCS/PINK-SALE/DX-SALE_):**<br>	
-  ✔️ Anti Blacklist, Revert Transaction<br>
-  ✔️ Anti High Tax > = 58%, Revert Transaction<br>
-  ✔️ Buy From Solidity Smart Contract<br>
-  ✔️ Multi-Buy within one transaction<br>
-  ✔️ PancakeSwap NON-BNB<br>
-  ✔️ PancakeSwap BNB<br>
-  ✔️ Pink-Sale<br>
-  ✔️ Dx-Sale<br>
-  ✔️ Auto Sell<br>
-  ✔️ Manual Sell<br>
+**Mempool Mode**<br>	
+&nbsp;&nbsp; &nbsp;✔️ Detect Blacklist and High Tax > Revert Transaction<br>
+&nbsp;&nbsp; &nbsp;✔️ Buy From Solidity Smart Contract<br>
+&nbsp;&nbsp; &nbsp;✔️ Multi-Buy within one transaction<br>
+&nbsp;&nbsp; &nbsp;✔️ Auto Sell<br>
+&nbsp;&nbsp; &nbsp;✔️ Manual Sell<br>
   
-**Telegram Mode (_LINK/ID_):**<br>
-  ✔️ Scrape Contract Address Only From Admin<br>
-  ✔️ Reconstruct To Valid Contract Address<br>
-  ✔️ Public & Private Group/Channel<br>
-  ✔️ Filter Greeting Messages<br>
-  ✔️ Buy From Solidity Smart Contract<br>
-  ✔️ HoneyPot Checker For buy/sell tax<br>
-  ✔️ Auto Sell<br>
-  ✔️ Manual Sell<br>
+**Telegram Mode**<br>
+&nbsp;&nbsp; &nbsp;✔️ Scrape Contract Address From Only Admin<br>
+&nbsp;&nbsp; &nbsp;✔️ Attempt To Reconstruct To Valid Contract Address<br>
+&nbsp;&nbsp; &nbsp;✔️ Public & Private Group/Channel<br>
+&nbsp;&nbsp; &nbsp;✔️ Filter Greeting Messages<br>
+&nbsp;&nbsp; &nbsp;✔️ Buy From Solidity Smart Contract<br>
+&nbsp;&nbsp; &nbsp;✔️ HoneyPot Checker For buy tax/sell tax/tradeable/sellable<br>
+&nbsp;&nbsp; &nbsp;✔️ Auto Sell<br>
+&nbsp;&nbsp; &nbsp;✔️ Manual Sell<br>
   
-⚠️**Telegram ID mode should only be used in private groups. Make sure to only turn it on when the chat is muted, otherwise it will capture all messages from MEMBERS and ADMINS with the exception of greeting messages.** ⚠️<br>
   <br>
   <br>
-**Config.json File Setup:** <br>
-**⚠️ Do Not Change Parameter Name⚠️** 
+  
+&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;**⚠️ Do Not Change Parameter Name⚠️** <br>
+****Config.json File Setup:**** <br>
 
   **apiID**:   Get your telegram api id at https://my.telegram.org/auth
   
