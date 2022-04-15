@@ -2,8 +2,6 @@
 **Demo : https://www.youtube.com/watch?v=3t74O6JmtNI**<br>
 **Telegram: https://t.me/PotatoSniperBot**<br>
 
-**COMING SOON: ETH**<br>
-
 **BSC:** _**[PancakeSwap, ApeSwap, BabySwap, KnightSwap, MDEXSwap]**_<br>
 **ETH:** _**[UNIV2, SUSHI, SHIBA]**_<br>
 **POLYGON:** _**[QUICKSWAP]**_<br>
