@@ -4,8 +4,11 @@
 
 **COMING SOON: ETH**<br>
 
-**BSC DEX:** _**[PancakeSwap, ApeSwap, BabySwap, KnightSwap, MDEXSwap]**_<br>
-**CRONOS DEX:** _**[MeerkatSwap]**_<br>
+**BSC:** _**[PancakeSwap, ApeSwap, BabySwap, KnightSwap, MDEXSwap]**_<br>
+**ETH:** _**[UNIV2, SUSHI, SHIBA]**_<br>
+**POLYGON:** _**[QUICKSWAP]**_<br>
+**FANTOM:** _**[SPOOKYSWAP]**_<br>
+**CRONOS:** _**[MeerkatSwap]**_<br>
 
 **Mempool Mode**<br>	
 &nbsp;&nbsp; &nbsp;✔️ Detect Blacklist and High Tax > Revert Transaction<br>
