@@ -4,7 +4,7 @@
 # **Warning**<br>
 **⚠ Only use test wallet and never use main wallet ⚠**
 
-# **SetUp**<br>
+# **Set Up**<br>
 **Refer to PotatoBot Manual.pdf file**
 
 # **Contact**<br>
