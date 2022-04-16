@@ -5,7 +5,7 @@
 **⚠ Only use test wallet and never use main wallet ⚠**
 
 # **SetUp**<br>
-**Refer to PotatoBot.pdf file**
+**Refer to PotatoBot Manual.pdf file**
 
 # **Contact**<br>
 **Youtube Demo : https://www.youtube.com/watch?v=3t74O6JmtNI**<br>
