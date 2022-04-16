@@ -4,6 +4,13 @@
 # **Warning**<br>
 **⚠ Only use test wallet and never use main wallet ⚠**
 
+# **Supported Chains**<br>
+**BSC [_PancakeSwap, ApeSwap, BabySwap, KnightSwap, MDEXSwap_]**<br>
+**ETH [UniSwapV2, SushiSwap, ShibaSwap]**<br>
+**Chronos [_MeerakatSwap_]**<br>
+**Polygon [_QuickSwap_]**<br>
+**Fanton [_SpookySwap_]**<br>
+
 # **Set Up**<br>
 **Refer to PotatoBot Manual.pdf file**
 
