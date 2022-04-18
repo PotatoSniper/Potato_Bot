@@ -13,8 +13,8 @@
 **BSC [_PancakeSwap, ApeSwap, BabySwap, KnightSwap, MDEXSwap_]**<br>
 **ETH [UniSwapV2, SushiSwap, ShibaSwap]**<br>
 **Chronos [_MeerakatSwap_]**<br>
-**Polygon [_QuickSwap_]**<br>
-**Fanton [_SpookySwap_]**<br>
+**Polygon [_QuickSwap, PolycatSwap_]**<br>
+**Fanton [_SpookySwap, SpiritSwap_]**<br>
 **Avalanche [_TraderJoe, Pangolin_]**<br>
 
 # **Set Up**<br>
