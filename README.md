@@ -10,6 +10,7 @@
 **Chronos [_MeerakatSwap_]**<br>
 **Polygon [_QuickSwap_]**<br>
 **Fanton [_SpookySwap_]**<br>
+**Avalanche [_TraderJoe, Pangolin_]**<br>
 
 # **Set Up**<br>
 **Refer to PotatoBot Manual.pdf file**
