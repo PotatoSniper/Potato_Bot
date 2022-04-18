@@ -41,7 +41,7 @@
   
 "block_chain":"AVAX",
   "governance_token": "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7",
-  "TraderJoe_Router": "0x60aE616a2155Ee3d9A68541Ba4544862310933d4",
-  "TraderJoe_Factory": "0x9Ad6C38BE94206cA50bb0d90783181662f0Cfa10",
-  "Pangolin_Router": "0xE54Ca86531e17Ef3616d22Ca28b0D458b6C89106",
-  "Pangolin_Facotry": "0xefa94DE7a4656D787667C749f7E1223D71E9FD88",
+  "traderjoe_router": "0x60aE616a2155Ee3d9A68541Ba4544862310933d4",
+  "traderioe_factory": "0x9Ad6C38BE94206cA50bb0d90783181662f0Cfa10",
+  "pangolin_router": "0xE54Ca86531e17Ef3616d22Ca28b0D458b6C89106",
+  "pangolin_facotry": "0xefa94DE7a4656D787667C749f7E1223D71E9FD88",
