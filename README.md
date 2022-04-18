@@ -4,6 +4,11 @@
 # **Warning**<br>
 **⚠ Only use test wallet and never use main wallet ⚠**
 
+# **Language**<br>
+**NodeJS**<br>
+**Solidity**<br>
+
+
 # **Supported Chains**<br>
 **BSC [_PancakeSwap, ApeSwap, BabySwap, KnightSwap, MDEXSwap_]**<br>
 **ETH [UniSwapV2, SushiSwap, ShibaSwap]**<br>
