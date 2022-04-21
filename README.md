@@ -26,4 +26,4 @@
 **Dev-Telegram: @poormanmentality**<br>
 **Dev-Discord: Anonymous101#5251**<br>
 
-This bot does not support limit rated node/endpoints. I offer node installation service (**_BSC/ETH_**) for **_$100_** BUSD one time payment.
+This bot does not support limit rated node/endpoints. I offer node installation service (**_BSC/ETH/CRO_**) for **_$100_** BUSD one time payment.
