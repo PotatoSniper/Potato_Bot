@@ -18,13 +18,15 @@
 **Avalanche [_TraderJoe, Pangolin_]**<br>
 
 # **Set Up**<br>
-**Refer to PotatoBot Manual.pdf file**<br>
-**ContractDeployer crashes upon opening > double check > _"url", "contract_owner_addr"_ in config.json file**<br>
-**PotatoBot crashes upon opening > double check > _"url", "router", "factory", "governance_token_addr", "my_contract", "hp_contract", "contract_owner_addr", "sell_account_addr"_ in config.json file.**
+**Refer to PotatoBot Manual.pdf file**<br><br>
+
+**ContractDeployer crashes upon opening > double check > _"url", "contract_owner_addr"_ in config.json file**<br><br>
+**PotatoBot crashes upon opening > double check > _"url", "router", "factory", "governance_token_addr", "my_contract", "hp_contract", "contract_owner_addr", "sell_account_addr"_ in config.json file.**<br><br>
+This bot does not support limit rated node/endpoints. I offer node installation service (**_BSC/ETH/CRO_**) for **_$100_** BUSD one time payment.
+
+
 # **Contact**<br>
 **Youtube Demo : https://www.youtube.com/watch?v=3t74O6JmtNI**<br>
 **Telegram Chat: https://t.me/PotatoSniperBot**<br>
 **Dev-Telegram: @poormanmentality**<br>
 **Dev-Discord: Anonymous101#5251**<br>
-
-This bot does not support limit rated node/endpoints. I offer node installation service (**_BSC/ETH/CRO_**) for **_$100_** BUSD one time payment.
