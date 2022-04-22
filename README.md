@@ -19,7 +19,7 @@
 
 # **Set Up**<br>
 **Refer to PotatoBot Manual.pdf file**<br>
-**Deployer crashes upon opening > double check > _"url", "contract_owner_addr"_ in config.json file**<br>
+**ContractDeployer crashes upon opening > double check > _"url", "contract_owner_addr"_ in config.json file**<br>
 **PotatoBot crashes upon opening > double check > _"url", "router", "factory", "governance_token_addr", "my_contract", "hp_contract", "contract_owner_addr", "sell_account_addr"_ in config.json file.**
 # **Contact**<br>
 **Youtube Demo : https://www.youtube.com/watch?v=3t74O6JmtNI**<br>
