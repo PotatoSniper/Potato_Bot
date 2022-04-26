@@ -4,6 +4,8 @@
 # **Warning**<br>
 **⚠ Only use test wallet and never use main wallet ⚠**
 
+**PresaleSniper requires chrome browser to scrape online date which resulted in roughly 400MB of space.**
+
 # **Language**<br>
 **NodeJS**<br>
 **Solidity**<br>
