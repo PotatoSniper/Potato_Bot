@@ -8,6 +8,11 @@
 **NodeJS**<br>
 **Solidity**<br>
 
+# **Feature**<br
+**Mempool**<br>
+**Telegram**<br>
+**Limit-Trade**<br>
+**PreSale**<br>
 
 # **Supported Chains**<br>
 **BSC [_PancakeSwap, ApeSwap, BabySwap, KnightSwap, MDEXSwap_]**<br>
@@ -17,10 +22,6 @@
 **Fanton [_SpookySwap, SpiritSwap_]**<br>
 **Avalanche [_TraderJoe, Pangolin_]**<br>
 
-**Mempool**<br>
-**Telegram**<br>
-**Limit-Trade**<br>
-**PreSale**<br>
 
 # **Set Up**<br>
 **Refer to PotatoBot Manual.pdf file**<br><br>
