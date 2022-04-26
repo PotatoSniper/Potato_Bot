@@ -17,6 +17,11 @@
 **Fanton [_SpookySwap, SpiritSwap_]**<br>
 **Avalanche [_TraderJoe, Pangolin_]**<br>
 
+**Mempool**<br>
+**Telegram**<br>
+**Limit-Trade**<br>
+**PreSale**<br>
+
 # **Set Up**<br>
 **Refer to PotatoBot Manual.pdf file**<br><br>
 
