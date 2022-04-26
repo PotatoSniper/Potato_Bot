@@ -9,10 +9,11 @@
 **Solidity**<br>
 
 # **Feature**<br>
-**Mempool**<br>
-**Telegram**<br>
+**Mempool Snipe**<br>
+**Telegram Snipe**<br>
+**PreSale Snipe**<br>
 **Limit-Trade**<br>
-**PreSale**<br>
+
 
 # **Supported Chains**<br>
 **BSC [_PancakeSwap, ApeSwap, BabySwap, KnightSwap, MDEXSwap_]**<br>
