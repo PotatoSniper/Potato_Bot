@@ -6,19 +6,17 @@
 
 **PresaleSniper requires chrome browser to scrape online date which resulted in roughly 400MB of space.**
 
+# **Download**<br>
+    https://drive.google.com/drive/folders/1Mymvhg-9eBk3MIHu8bhvqU0bz-FOZLFT?usp=sharing
+    
 # **Feature**<br>
 **Mempool Snipe, Telegram Snipe, Presale Snipe, Limit-Trade** <br>
-
 **-BSC [_PancakeSwap, ApeSwap, BabySwap, KnightSwap, MDEXSwap_]**<br>
 **-ETH [UniSwapV2, SushiSwap, ShibaSwap]**<br>
 **-Chronos [_MeerakatSwap_]**<br>
 **-Polygon [_QuickSwap, PolycatSwap_]**<br>
 **-Fanton [_SpookySwap, SpiritSwap_]**<br>
 **-Avalanche [_TraderJoe, Pangolin_]**<br>
-
-# **Download**<br>
-    https://drive.google.com/drive/folders/1Mymvhg-9eBk3MIHu8bhvqU0bz-FOZLFT?usp=sharing
-
 
 # **Set Up**<br>
 **Refer to PotatoBot Manual.pdf file**<br><br>
