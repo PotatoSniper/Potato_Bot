@@ -4,7 +4,7 @@
 # **Warning**<br>
 **⚠ Only use test wallet and never use main wallet ⚠**
 
-**PresaleSniper requires chrome browser to scrape online date which resulted in roughly 400MB of space.**
+**PresaleSniper requires chrome browser to scrape online date which resulted in roughly 400MB of space and force to migrate from GitHub to Google-Drive**
 
 # **Download**<br>
     https://drive.google.com/drive/folders/1Mymvhg-9eBk3MIHu8bhvqU0bz-FOZLFT?usp=sharing
