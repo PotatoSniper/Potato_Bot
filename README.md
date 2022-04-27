@@ -23,7 +23,7 @@
 
 **ContractDeployer crashes upon opening > double check > _"url", "contract_owner_addr"_ in config.json file**<br><br>
 **PotatoBot crashes upon opening > double check > _"url", "router", "factory", "governance_token_addr", "my_contract", "hp_contract", "contract_owner_addr", "sell_account_addr"_ in config.json file.**<br><br>
-This bot does not support limit rated node/endpoints. I offer node installation service (**_BSC/ETH/CRO/Matic_**) for **_$100_** BUSD one time payment.
+This bot does not support rate limited node/endpoints. I offer node installation service (**_BSC/ETH/Cronos/Polygon_**) for **_$100_** BUSD one time payment.
 
 
 # **Contact**<br>
