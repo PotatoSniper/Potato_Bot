@@ -10,7 +10,7 @@
     https://drive.google.com/drive/folders/1Mymvhg-9eBk3MIHu8bhvqU0bz-FOZLFT?usp=sharing
     
 # **Feature**<br>
-**Mempool Snipe, Telegram Snipe, Presale Snipe, Limit-Trade** <br>
+**Mempool Snipe, Telegram Snipe, Presale Snipe, Limit-Trade, Monitor-Remove-LP** <br>
 **-BSC [_PancakeSwap, ApeSwap, BabySwap, KnightSwap, MDEXSwap_]**<br>
 **-ETH [UniSwapV2, SushiSwap, ShibaSwap]**<br>
 **-Chronos [_MeerakatSwap_]**<br>
