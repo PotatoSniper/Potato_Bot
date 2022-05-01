@@ -18,6 +18,8 @@
 **-Polygon [_QuickSwap, PolycatSwap_]**<br>
 **-Fanton [_SpookySwap, SpiritSwap_]**<br>
 **-Avalanche [_TraderJoe, Pangolin_]**<br>
+**-Metis  [_TethySwap_]**<br>
+**-MILKOMEDA [_MilkySwap,OsccamxSwap, MuesliSwap_]**<br>
 
 # **Set Up**<br>
 **Refer to PotatoBot Manual.pdf file**<br><br>
