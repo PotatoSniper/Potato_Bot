@@ -4,6 +4,9 @@
 # **Warning**<br>
 **⚠ Only use test wallet and never use main wallet ⚠**
 
+**⚠ Migrating All Features To The Other 2 Bots In My Repository⚠**
+
+
 
 # **Presale-Sniper Download**<br>
 **PresaleSniper requires chrome browser to scrape online data which resulted in roughly 400MB of space and force to migrate from GitHub to Google-Drive**
