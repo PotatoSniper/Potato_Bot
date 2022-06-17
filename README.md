@@ -30,9 +30,9 @@
 **Shitty_Telegram_Sniper** <br>
 
 >**Call_Channel_Sniper**: Press 1 to login, press 3 to test print all messages or press 4 to start listening.<br>
->**Fair Launch Sniper Mode**: Fill in missingPress 1 to login > press 2 to get and load chat id > press 5 and copy and paste chat id.<br>
+>**Fair Launch Sniper Mode**: Press 1 to login > press 2 to get and load chat id > press 5 and copy and paste chat id.<br>
 >**Limit_Trade Mode**: press 6 and follow the config guide, it's pretty straight forward.<br>
->**Tradeable Mode**: Press 7 and enter token address, once conditions are clear it would buy in, will not buy if any conditions fails.<br>
+>**Tradeable Mode**: Press 7 and enter token address, once conditions are clear it would buy in, will not buy if any conditions fails and continue to monitor until all conditions are true and attempt to buy.<br>
 
 **Shitty_Mempool_Sniper**
 >**Press 1 to deploy management contract. press 2 to create wallets, smart contract is used as wallet.**<br>
