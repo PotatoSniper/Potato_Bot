@@ -25,15 +25,24 @@
 **-MILKOMEDA [_MilkySwap, OsccamxSwap, MuesliSwap_]**<br>
 
 # **Set Up**<br>
-**Refer to PotatoBot Manual.pdf file**<br><br>
+**Manual Coming Soon**<br>
 
-**ContractDeployer crashes upon opening > double check > _"url", "contract_owner_addr"_ in config.json file**<br><br>
-**PotatoBot crashes upon opening > double check > _"url", "router", "factory", "governance_token_addr", "my_contract", "hp_contract", "contract_owner_addr", "sell_account_addr"_ in config.json file.**<br><br>
-This bot does not support rate limited node/endpoints. I offer node installation service (**_BSC/ETH/Cronos/Matic/Fantom_**) for **_$100_** BUSD one time payment.
+**First > fill in missing parameters in config.json file.**<br>
+
+**Shitty_Telegram_Sniper** <br>
+
+>**Call_Channel_Sniper**: Press 1 to login, press 3 to test print all messages or press 4 to start listening.<br>
+>**Fair Launch Sniper Mode**: Fill in missingPress 1 to login > press 2 to get and load chat id > press 5 and copy and paste chat id.<br>
+>**Limit_Trade Mode**: press 6 and follow the config guide, it's pretty straight forward.<br>
+>**Tradeable Mode**: Press 7 and enter token address, once conditions are clear it would buy in, will not buy if any conditions fails.<br>
+
+**Shitty_Mempool_Sniper**
+>**Press 1 to deploy management contract. press 2 to create wallets, smart contract is used as wallet.**<br>
+>**buy_exact_eth**: to enable enter 0 when prompt for exact token amount. <br>
+>**buy_exact_token**: to enable enter desire value. To disable enter 0, this will automatically enable buy_exact_eth mode.
 
 
 # **Contact**<br>
-**Youtube Demo : https://www.youtube.com/watch?v=3t74O6JmtNI**<br>
 **Telegram Chat: https://t.me/PotatoSniperBot**<br>
 **Dev-Telegram: @poormanmentality**<br>
 **Dev-Discord: Anonymous101#5251**<br>
