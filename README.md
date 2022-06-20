@@ -5,13 +5,13 @@
 **⚠ Only use test wallet and never use main wallet ⚠**
 
 
-# **Presale-Sniper Download**<br>
 
-**PresaleSniper requires chrome browser to scrape online data which resulted in roughly 400MB of space and force to migrate from GitHub to Google-Drive**
-
-    https://drive.google.com/drive/folders/1Mymvhg-9eBk3MIHu8bhvqU0bz-FOZLFT?usp=sharing
     
 # **Feature**<br>
+**Telegram Chat: https://t.me/PotatoSniperBot**<br>
+**Dev-Telegram: @poormanmentality**<br>
+**Dev-Discord: Anonymous101#5251**<br>
+
 **Mempool Snipe, Telegram Snipe, Presale Snipe, Limit-Trade, Monitor-Remove-LP** <br>
 **-BSC [_PancakeSwap, ApeSwap, BabySwap, KnightSwap, MDEXSwap_]**<br>
 **-ETH [UniSwapV2, SushiSwap, ShibaSwap]**<br>
@@ -23,6 +23,7 @@
 **-MILKOMEDA [_MilkySwap, OsccamxSwap, MuesliSwap_]**<br>
 
 # **Set Up**<br>
+
 **Manual Coming Soon**<br>
 
 **First > fill in missing parameters in config.json file.**<br>
@@ -38,9 +39,3 @@
 >**Press 1 to deploy management contract. press 2 to create wallets, smart contract is used as wallet.**<br>
 >**buy_exact_eth**: to enable enter 0 when prompt for exact token amount. <br>
 >**buy_exact_token**: to enable enter desire value. To disable enter 0, this will automatically enable buy_exact_eth mode.
-
-
-# **Contact**<br>
-**Telegram Chat: https://t.me/PotatoSniperBot**<br>
-**Dev-Telegram: @poormanmentality**<br>
-**Dev-Discord: Anonymous101#5251**<br>
