@@ -7,7 +7,7 @@
 
 
     
-# **Feature**<br>
+# **Supported Dex & Chains**<br>
 **Telegram Chat: https://t.me/PotatoSniperBot**<br>
 **Dev-Telegram: @poormanmentality**<br>
 **Dev-Discord: Anonymous101#5251**<br>
@@ -24,18 +24,4 @@
 
 # **Set Up**<br>
 
-**Manual Coming Soon**<br>
-
-**First > fill in missing parameters in config.json file.**<br>
-
-**Shitty_Telegram_Sniper** <br>
-
->**Call_Channel_Sniper**: Press 1 to login, press 3 to test print all messages or press 4 to start listening.<br>
->**Fair Launch Sniper Mode**: Press 1 to login > press 2 to get and load chat id > press 5 and copy and paste chat id.<br>
->**Limit_Trade Mode**: press 6 and follow the config guide, it's pretty straight forward.<br>
->**Tradeable Mode**: Press 7 and enter token address, once conditions are clear it would buy in, will not buy if any conditions fails and continue to monitor until all conditions are true and attempt to buy.<br>
-
-**Shitty_Mempool_Sniper**
->**Press 1 to deploy management contract. press 2 to create wallets, smart contract is used as wallet.**<br>
->**buy_exact_eth**: to enable enter 0 when prompt for exact token amount. <br>
->**buy_exact_token**: to enable enter desire value. To disable enter 0, this will automatically enable buy_exact_eth mode.
+**Refer To Manual**<br>
