@@ -2,6 +2,19 @@
 **Mr. Potato holds no responsible or reliable for any error or losses, if you persist on using this tool then you agree to hold full responsibility and liability for all consequences. If you are uncomfortable or disagree with any of the terms of this policy, please discontinue use of Potato Sniper Bot/Products.**
 
 **⚠ Only use test wallet and never use main wallet ⚠**
+# **Fee**<br>
+**Shitty Mempool Sniper** <br>
+>[FREE Version]
+>   - Dev Fee: 50% Profit<br>
+
+>[PAID Version]
+>   - Monthly Fee: 1BNB <br>
+>   - Permanent: 7.5 BNB <br>
+
+**Shitty Telegram Sniper** <br>
+>[PAID Version]
+>   - Permanent: 1BNB
+
 # **Set Up**<br>
 
 **Telegram Chat: https://t.me/PotatoSniperBot**<br>
