@@ -6,7 +6,7 @@
 **Shitty Mempool Sniper** <br>
 [Anti Rug: ✔️ | Public Node: ❌]
 >[FREE Version]
->   - Dev Fee: 50% Profit (not including gas fee)<br>
+>   - Dev Fee: 50% Profit<br>
 
 >[PAID Version]
 >   - Monthly Fee: 1BNB <br>
@@ -15,7 +15,9 @@
 **Shitty Telegram Sniper** <br>
 [Anti Rug: ❌ | Public Node: ✔️]
 >[FREE Version]
->   - Dev Fee: 50% Profit (not including gas fee)<br>
+>   - Dev Fee: 50% Profit <br><br>
+
+**profit calculation does not include gas fee cause the calculation is done on the contract so can't factor in gas unfortunately.**<br>
 
 # **Set Up**<br>
 
