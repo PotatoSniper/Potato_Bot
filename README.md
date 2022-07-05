@@ -4,6 +4,7 @@
 **⚠ Only use test wallet and never use main wallet ⚠**
 # **Fee**<br>
 **Shitty Mempool Sniper** <br>
+[Anti Rug: ✔️ | Public Node: ❌]
 >[FREE Version]
 >   - Dev Fee: 50% Profit<br>
 
@@ -12,8 +13,9 @@
 >   - Permanent: 7.5 BNB <br>
 
 **Shitty Telegram Sniper** <br>
->[PAID Version]
->   - Permanent: 1BNB
+[Anti Rug: ❌ | Public Node: ✔️]
+>[FREE Version]
+>   - Dev Fee: 50% Profit<br>
 
 # **Set Up**<br>
 
