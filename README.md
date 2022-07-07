@@ -9,13 +9,17 @@
 >   - Dev Fee: 50% Profit<br>
 
 >[PAID Version]
->   - Monthly Fee: 1BNB <br>
->   - Permanent: 7.5 BNB <br>
+>   - Monthly Access: 1BNB <br>
+>   - Permanent Access: 7.5 BNB <br>
 
 **Shitty Telegram Sniper** <br>
 [Anti Rug: ❌ | Public Node: ✔️]
 >[FREE Version]
->   - Dev Fee: 50% Profit <br><br>
+>   - Dev Fee: 50% Profit <br>
+
+>[PAID Version]
+>   - Permanent Access: 1BNB <br>
+>   - Dev Fee: 10% Profit<br>
 
 **profit calculation does not include gas fee cause the calculation is done on the contract so can't factor in gas unfortunately.**<br>
 
