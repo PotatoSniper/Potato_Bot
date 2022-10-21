@@ -9,8 +9,8 @@
 >   - Dev Fee: 50% Profit<br>
 
 >[PAID Version]
->   - Monthly Access: 1BNB <br>
->   - Permanent Access: 7.5 BNB <br>
+>   - Monthly Access: 0.33BNB <br>
+>   - Permanent Access: 5 BNB <br>
 
 **Shitty Telegram Sniper** <br>
 [Anti Rug: ❌ | Public Node: ✔️]
